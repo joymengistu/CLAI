@@ -1,0 +1,13 @@
+{
+  "facts": [
+    "It is a sunny day"
+  ],
+  "special": {
+    "user": {
+      "name": "Joy"
+    },
+    "project": {
+      "goal": "Smart CLI"
+    }
+  }
+}

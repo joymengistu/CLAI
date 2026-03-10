@@ -1,0 +1,1 @@
+require('./engine/thinker').start();
