@@ -391,6 +391,11 @@ index 00cfd9b3559874e1a08b59d8d122c4b317eccc22..d140c1904f2d2437a2b865acd3619cef
 +3. **A short demo transcript**
 +4. **A roadmap / planned features section**
 +5. **Contribution instructions**
+
+---
+
+## 🎨 Creative UI
+Check out the [Vercel-inspired Dashboard UI](https://github.com/joymengistu/Vercel-UI-Creative) created for this project.
 +
 +---
 +
